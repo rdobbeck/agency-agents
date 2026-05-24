@@ -10,10 +10,13 @@ Paste this (filled) into each stage prompt as "[paste inputs.md]".
 - Full premium bundle: 1:1 training + individualized programming together
   *(confirm exact bundle price)*
 
+## Brand
+- Business name: **Dobbeck Training Systems**
+
 ## Who you serve
 - Niche / specialty: Strength for adults 25+; **new to CrossFit / CrossFit for beginners**
 - Where you operate: Downtown Chicago and New York (in-person)
-- What makes you different: [TBD — your method, certs, results, personality]
+- What makes you different: [TBD — your method, certs, background, personality]
 
 ## Current reality
 - Platforms you use: Instagram (most frequent), Facebook (just started),
@@ -23,6 +26,6 @@ Paste this (filled) into each stage prompt as "[paste inputs.md]".
 - Posting/filming capacity per week: [TBD]
 
 ## Proof you can show
-- Client wins / testimonials: [TBD]
-- Before/after results (with permission): [TBD]
-- Any reviews / ratings: [TBD]
+- Approach: **sell with confidence — proof kept light, not the lead.**
+- Reviews available: Yelp + Google reviews for Dobbeck Training Systems
+- Use reviews as light social proof on the landing page only, not in every post.
